@@ -7,7 +7,7 @@ Herramientas utlizadas
 
 1. Instalar Xampp v3.3.0 (https://www.apachefriends.org/es/index.html) de ser necesario y CodeIgniter v4 (https://www.codeigniter.com/download)
 
-2. Descargar repositorio (link github)
+2. Descargar repositorio (https://github.com/Suna74/ReachApp)
 
 3. Descomprimir la aplicacion en la carpeta de xampp/htdocs/ReachApp
 
